@@ -1,15 +1,15 @@
-# Отчёт о тестировании <KeyValidator>
+# Отчёт о тестировании "KeyValidator" и "OpenJDK11"
 
 ## Краткое описание
 
-06.07.2020 - 06.07.2020 было проведено тестирование установки,   приложения KeyValidator.
+06.07.2020 - 06.07.2020 было проведено тестирование установки,   приложения "KeyValidator" и "OpenJDK11".
 
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
 
 * https://github.com/KristinaPelevina/KeyValidator/issues/1#issue-651568335
->
+
 * https://github.com/KristinaPelevina/KeyValidator/issues/2#issue-651569731
 
 * https://github.com/KristinaPelevina/KeyValidator/issues/3#issue-651571184
@@ -27,10 +27,16 @@
 
 
 ### В качестве тестовых данных использовались данные:
+
+> https://github.com/netology-code/javaqa-homeworks/tree/master/intro (задача 1)
+
 > https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md 
 
-* Список валидных ключей, при проверке которых рузультат должен был быть ОК
-* Список невалидных ключей, при проверке которых рузультат должен был быть FAIL
+>https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md
+
+* программа "OpenJDK11" установилась согласно инструкции, запускается и совместима с Java 11
+* Список валидных ключей, при проверке которых результат должен был быть ОК
+* Список невалидных ключей, при проверке которых результат должен был быть FAIL
 
 ### Тестирование производилось в следующем окружении:
 
