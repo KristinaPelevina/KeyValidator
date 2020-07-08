@@ -8,13 +8,10 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://github.com/KristinaPelevina/KeyValidator/issues/1#issue-651568335
-
-* https://github.com/KristinaPelevina/KeyValidator/issues/2#issue-651569731
-
 * https://github.com/KristinaPelevina/KeyValidator/issues/3#issue-651571184
 
-* https://github.com/KristinaPelevina/KeyValidator/issues/4#issue-651572317
+* https://github.com/KristinaPelevina/KeyValidator/issues/1#issue-651568335
+
 
 ## Описание процесса тестирования
 
